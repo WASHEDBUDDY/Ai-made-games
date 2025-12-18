@@ -3,4 +3,4 @@ Ai made games made with gemini.
 
 
 
-these are games made with ai for fun(manly gemini)
+these are games made by me with ai for fun(manly gemini)

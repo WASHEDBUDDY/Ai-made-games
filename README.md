@@ -1,6 +1,4 @@
-# Ai-made-games
+# stealth game with gemini
 
 
-these are games made by me with ai for fun(manly gemini)
-
-to play these games just open the html file
+part of my ai games collection
